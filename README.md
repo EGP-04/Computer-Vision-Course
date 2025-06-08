@@ -1,1 +1,1 @@
-# Computer-Vision-Course
+# PyTorch Course
